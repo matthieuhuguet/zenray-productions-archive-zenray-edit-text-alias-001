@@ -1,0 +1,10 @@
+---
+name: edit-text
+description: Point d’entrée compatible vers zenray-edit pour corriger fidèlement un texte de Matthieu ; grammaire seule par défaut, réécriture ou traduction seulement sur demande explicite.
+---
+
+# Correction de texte via ZenRay Edit (7 October 2026)
+
+- Lire `/Users/zenray/.claude/skills/zenray-edit/references/TextEditing.md`, puis suivre le contrat actif du skill zenray-edit. (7 October 2026)
+- Corriger uniquement les fautes ; conserver vocabulaire, ordre, rythme, répétitions et idées. Réorganisation, variantes, raccourcissement et traduction ne s’activent que dans le périmètre explicitement demandé. (7 October 2026)
+- Le protocole original est conservé intégralement dans `zenray-edit/references/legacy/EditText.md` et dans l’archive de migration du projet zenray-edit. (7 October 2026)
